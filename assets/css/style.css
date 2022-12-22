@@ -5,6 +5,8 @@
 }
 
 body {
+    min-width: 100px;
+    max-width: fit-content;
     background-color: #d9dcd6;
 }
 
